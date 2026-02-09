@@ -1,0 +1,2 @@
+Update system (here OS is Ubuntu)
+sudo apt update && sudo apt upgrade -y
